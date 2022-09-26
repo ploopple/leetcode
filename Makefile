@@ -1,4 +1,4 @@
 start:
 	clear
-	g++ easy/getConcatenation.cpp -o bin/a.out
+	g++ easy/smallestEvenMultiple.cpp -o bin/a.out
 	./bin/a.out
