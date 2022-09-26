@@ -1,4 +1,4 @@
 start:
 	clear
-	g++ towSum.cpp
-	@./a.out
+	g++ easy/getConcatenation.cpp -o bin/a.out
+	./bin/a.out
